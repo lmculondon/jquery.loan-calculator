@@ -66,11 +66,11 @@ jQuery(function ($) {
                 MaxTerm = 36;
                 MinTerm = 3;
                 break;
-            case (value < 4999):
+            case (value < 5001):
                 MaxTerm = 60;
                 MinTerm = 3;
                 break;
-            case (value < 14999):
+            case (value < 15001):
                 MaxTerm = 60;
                 MinTerm = 6;
                 break;
